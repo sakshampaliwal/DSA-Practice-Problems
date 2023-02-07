@@ -1,0 +1,11 @@
+# Ignore Visual Studio Code folder (here trailing slash means it ignores its interior files and other things also
+.vscode/  
+
+# Ignore Idea folder
+.idea/
+
+#Ignore Out folder
+.out/
+
+# Ignore all .class files
+*.class
